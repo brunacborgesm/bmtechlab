@@ -1,4 +1,4 @@
-# BM Tech Lab - Studio Structure
+# BM Tech Lab - Structure
 
 Check it here: [brunaborges.com/bmtechlab](https://brunaborges.com/bmtechlab)
 
