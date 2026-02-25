@@ -1,5 +1,10 @@
 # BM Tech Lab - Studio Structure
 
+Check it here: [brunaborges.com/bmtechlab](https://brunaborges.com/bmtechlab)
+
+### Preview
+![preview](./public/bmtechlab-fullpage.png)
+
 This repository contains the **architectural skeleton** of the BM Tech Lab digital studio. 
 
 ### What is this?
