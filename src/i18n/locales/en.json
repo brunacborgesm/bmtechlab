@@ -1,0 +1,369 @@
+{
+    "common": {
+        "social": {
+            "github": "https://github.com/brunacborgesm",
+            "linkedin": "https://linkedin.com/in/brunacborgesm",
+            "youtube": "https://youtube.com/@bruborgesdev",
+            "instagram": "https://instagram.com/bmtechlab",
+            "email": "mailto:brunaborgesdev@gmail.com"
+        },
+        "cv": {
+            "path": "/Bruna_Martins_Frontend_React_EN.pdf",
+            "name": "Bruna_Martins_CV_EN.pdf"
+        },
+        "phoneNumber": "5543996580958",
+        "skipNav": "Skip to main content"
+    },
+    "hero": {
+        "greeting": "Hi, I am",
+        "name": "Bruna Borges",
+        "description": "I help people and companies leverage their business with <modern>modern</modern> and <strategic>strategic</strategic> websites.",
+        "cta": "Download my CV",
+        "roles": [
+            "SOFTWARE ENGINEER",
+            "WEB DESIGNER",
+            "FRONTEND ENGINEER",
+            "FREELANCER"
+        ]
+    },
+    "about": {
+        "title": "About me",
+        "text1": "Software Engineer with 4 years of experience in the tech market, having worked with global giants like Ambev and Johnson & Johnson.",
+        "text2": "Today, as an entrepreneur, I help professionals and companies position themselves digitally with authority, connecting brands to their audience in Brazil and worldwide.",
+        "text3": "Specialized in creating high-performance, scalable interfaces, focused on delivering measurable results and experiences that retain users."
+    },
+    "services": {
+        "title": "Services",
+        "items": [
+            {
+                "title": "Web Performance",
+                "desc": "Websites up to 40% faster with a focus on usability and retention."
+            },
+            {
+                "title": "Landing Pages",
+                "desc": "Conversion-focused, technical SEO, and 90+ Lighthouse scores."
+            },
+            {
+                "title": "Data Visualization",
+                "desc": "Strategic dashboards and high-impact visualizations."
+            },
+            {
+                "title": "Modern Interfaces",
+                "desc": "High-performance, scalable digital products with React/TS."
+            }
+        ],
+        "portfolio": "View portfolio",
+        "companyPortfolio": "Company Portfolio"
+    },
+    "timeline": {
+        "title": "Experience",
+        "experiences": [
+            {
+                "year": "2025 - Present",
+                "company": "The BM Tech Lab",
+                "role": "Web Designer & Engineer",
+                "desc": "Development of professional websites and landing pages optimized for conversion and SEO.",
+                "tags": [
+                    "WordPress",
+                    "SEO",
+                    "React",
+                    "UX/UI",
+                    "Next.js",
+                    "Motion",
+                    "GSAP"
+                ]
+            },
+            {
+                "year": "2025 - 2025",
+                "company": "AB Inbev / Ambev",
+                "role": "Software Engineer",
+                "desc": "Strategic data visualizations and high-performance dashboards with React and Chart.js.",
+                "tags": [
+                    "React",
+                    "TypeScript",
+                    "Chart.js",
+                    "AgGrid"
+                ]
+            },
+            {
+                "year": "2021 - 2025",
+                "company": "Johnson & Johnson",
+                "role": "Software Engineer",
+                "desc": "Migration of legacy systems and creation of reusable component libraries.",
+                "tags": [
+                    "React",
+                    "Drupal",
+                    "Contentstack",
+                    "Styled Components"
+                ]
+            },
+            {
+                "year": "2019 - 2020",
+                "company": "TRF 1st Region",
+                "role": "Engineering Intern",
+                "desc": "Data maintenance and support for internal systems in a government environment.",
+                "tags": [
+                    "Oracle DB",
+                    "Excel",
+                    "Internal Systems"
+                ]
+            }
+        ]
+    },
+    "contact": {
+        "title": "Let's talk?",
+        "description": "Ready to turn your idea into high-performance code and strategic design? Fill out the form below and let's chat!",
+        "nameLabel": "Name",
+        "namePlaceholder": "Your name",
+        "topicLabel": "Topic",
+        "topics": {
+            "institutional": "Institutional Website",
+            "landing": "Landing Page",
+            "data": "Data Visualization / Dashboards",
+            "maintenance": "Maintenance / Consulting",
+            "other": "Other Project"
+        },
+        "messageLabel": "Message",
+        "messagePlaceholder": "How can I help you?",
+        "submit": "Send via WhatsApp",
+        "whatsappMessage": "Hi Bruna! My name is {{name}}. I'd like to talk about: {{topic}}.\n\nMessage: {{message}}"
+    },
+    "nav": {
+        "about": "/about",
+        "services": "/services",
+        "timeline": "/experience",
+        "contact": "/contact",
+        "openMenu": "Open menu",
+        "closeMenu": "Close menu"
+    },
+    "footer": {
+        "description": "Looking for a strategic, performance-focused developer for your project?",
+        "contactLink": "Get in touch",
+        "mapTitle": "Sitemap",
+        "mapAbout": "About",
+        "mapServices": "Services",
+        "mapTimeline": "Experience",
+        "mapContact": "Contact",
+        "connectTitle": "Connect",
+        "copyright": "© 2025 Bruna Borges. All rights reserved.",
+        "privacy": "Privacy Policy"
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "section1Title": "1. Information Collection",
+        "section1Text": "Our website only collects basic information you voluntarily provide through our contact form, such as your <highlight>name</highlight>, <highlight>company</highlight>, or <highlight>topic</highlight> of interest.",
+        "section2Title": "2. Data Usage",
+        "section2Text": "This information is used exclusively to facilitate our initial contact via WhatsApp. We do not store this data in permanent databases and do not share it with third parties.",
+        "section3Title": "3. WhatsApp Redirect",
+        "section3Text": "When using the contact form, you will be redirected to the WhatsApp platform. From that point on, the processing of your data follows WhatsApp's own privacy terms.",
+        "section4Title": "4. Contact",
+        "section4Text": "If you have any questions about how we handle your simple contact data, you can reach me directly through the channels available in the footer of this website.",
+        "lastUpdated": "Last updated: October 2025.",
+        "backHome": "Back to home"
+    },
+    "notFound": {
+        "title": "Page not found",
+        "description": "The page you're looking for doesn't exist or has been moved.",
+        "backHome": "Back to home"
+    },
+    "language": {
+        "label": "Language"
+    },
+    "bmlab": {
+        "common": {
+            "whatsappUrl": "https://wa.me/5543996580958?text=Olá%20BM%20TECH%20LAB!%20Gostaria%20de%20conhecer%20seus%20serviços.",
+            "logoAlt": "BM Tech Lab Logo"
+        },
+        "brands": [
+            "Borges Valente Advocacia",
+            "Claurício Wallace Advogado Trabalhista",
+            "The BM Tech Lab",
+            "Bruna Borges Desenvolvedora"
+        ],
+        "nav": {
+            "services": "Services",
+            "portfolio": "Portfolio",
+            "faq": "FAQ",
+            "contact": "Contact",
+            "cta": "Start a Project"
+        },
+        "hero": {
+            "badge": "Digital Studio",
+            "title1": "Engineering",
+            "title2": "Digital",
+            "title3": "Excellence",
+            "description": "We build modern, fast, and elegant websites for entrepreneurs and professionals who want to convey credibility from the very first second.",
+            "cta1": "Start a Project",
+            "cta2": "View Our Work",
+            "stat": "+6 Years",
+            "statLabel": "of experience"
+        },
+        "services": {
+            "title": "Our Craftsmanship",
+            "items": [
+                {
+                    "title": "Web Development",
+                    "desc": "Robust, scalable, high-performance websites built with modern technologies.",
+                    "tags": [
+                        "Landing Page",
+                        "Institutional Sites",
+                        "E-commerce"
+                    ]
+                },
+                {
+                    "title": "UI/UX Design",
+                    "desc": "Lead-focused interfaces that convert. We design with direction and precision.",
+                    "tags": [
+                        "Web Design",
+                        "Prototyping"
+                    ]
+                },
+                {
+                    "title": "SEO & Performance",
+                    "desc": "Better Google ranking, fast and lightweight sites, easy for your clients to find.",
+                    "tags": [
+                        "SEO",
+                        "Speed",
+                        "Maintenance"
+                    ]
+                },
+                {
+                    "title": "Brand Strategy",
+                    "desc": "We define your voice and visual identity to stand out in a competitive market.",
+                    "tags": [
+                        "Visual Identity",
+                        "Positioning",
+                        "Social Media"
+                    ]
+                }
+            ]
+        },
+        "projects": {
+            "title": "Modern Projects",
+            "items": [
+                {
+                    "name": "Bruna Borges - Developer",
+                    "desc": "Institutional website for a frontend developer focusing on React and Next.js.",
+                    "image": "/projects/bruna-fullpage.png",
+                    "url": "https://brunaborges.com",
+                    "tags": [
+                        "React",
+                        "Next.js",
+                        "Framer Motion",
+                        "GSAP"
+                    ]
+                },
+                {
+                    "name": "Dr. Sandra Borges - Attorney",
+                    "desc": "Institutional website for an attorney with practice in various areas of law.",
+                    "image": "/projects/borgesvalente-fullpage.png",
+                    "url": "https://borgesvalenteadvocacia.com.br",
+                    "tags": [
+                        "WordPress",
+                        "Elementor",
+                        "SEO",
+                        "Design"
+                    ]
+                },
+                {
+                    "name": "Dr. Claurício Wallace - Labor Lawyer",
+                    "desc": "Institutional website for a lawyer focusing on labor law.",
+                    "image": "/projects/wallaceclauricio-fullpage.png",
+                    "url": "https://wallaceclauricio.adv.br",
+                    "tags": [
+                        "WordPress",
+                        "Elementor",
+                        "SEO",
+                        "Design"
+                    ]
+                },
+                {
+                    "name": "Bruna Borges' Linktree",
+                    "desc": "Linktree for Bruna Borges.",
+                    "image": "/projects/links-fullpage.png",
+                    "url": "https://brunaborges.com/links",
+                    "tags": [
+                        "Next.js",
+                        "GSAP",
+                        "Framer Motion"
+                    ]
+                },
+                {
+                    "name": "BM Tech Lab",
+                    "desc": "Institutional website for BM Tech Lab, a digital agency creating websites and systems.",
+                    "image": "/projects/bmtechlab-fullpage.png",
+                    "url": "https://brunaborges.com/bmtechlab",
+                    "tags": [
+                        "Next.js",
+                        "Framer Motion",
+                        "GSAP"
+                    ]
+                }
+            ]
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "subtitle": "Before starting your project, it's normal to have questions. Here are the most common ones.",
+            "items": [
+                {
+                    "question": "How long does it take to build a website?",
+                    "answer": "The timeline depends on the project type, but on average, institutional websites are ready within 5 to 15 business days after content submission and layout approval."
+                },
+                {
+                    "question": "Do I need a domain and hosting?",
+                    "answer": "If you don't have them yet, we'll help you register and set everything up. The site is delivered with domain and hosting ready to use."
+                },
+                {
+                    "question": "Can I request changes after delivery?",
+                    "answer": "Yes. After delivery, you have a free adjustment period for small details. We also offer ongoing maintenance plans."
+                },
+                {
+                    "question": "Will my site appear on Google?",
+                    "answer": "Yes. All websites are delivered with SEO configured to help with ranking and appearing in search results over time."
+                },
+                {
+                    "question": "Does the site work well on mobile?",
+                    "answer": "Absolutely. All projects are responsive, meaning they automatically adapt to any screen size."
+                }
+            ]
+        },
+        "cta": {
+            "title": "Ready to build your next big thing?",
+            "description": "Join dozens of entrepreneurs who trusted BM Tech Lab with their digital needs.",
+            "button": "Start a Conversation"
+        },
+        "footer": {
+            "description": "Creative engineering for the modern web. Building high-performance digital experiences since 2025.",
+            "expertise": "Expertise",
+            "expertiseItems": [
+                "Web Development",
+                "UI/UX Design",
+                "Systems",
+                "Consulting"
+            ],
+            "studio": "Studio",
+            "studioItems": [
+                "About Us",
+                "Our Process",
+                "BM Tech Lab",
+                "Contact"
+            ],
+            "connect": "Connect",
+            "copyright": "© 2025 BM Tech Lab. All rights reserved.",
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service"
+        }
+    },
+    "links": {
+        "title": "Connect with me",
+        "bio": "Frontend Engineer & Web Designer. Creating high performance digital experiences.",
+        "items": [
+            { "name": "My Website", "url": "https://brunaborges.com", "icon": "globe" },
+            { "name": "WhatsApp", "url": "https://wa.me/5543996580958", "icon": "whatsapp" },
+            { "name": "Our Portfolio", "url": "/bmtechlab", "icon": "briefcase" },
+            { "name": "Instagram", "url": "https://instagram.com/bmtechlab", "icon": "instagram" },
+            { "name": "LinkedIn", "url": "https://linkedin.com/in/brunacborgesm", "icon": "linkedin" },
+            { "name": "GitHub", "url": "https://github.com/brunacborgesm", "icon": "github" }
+        ]
+    }
+}
